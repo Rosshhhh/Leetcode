@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rosshhhh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Rosshhhh/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
