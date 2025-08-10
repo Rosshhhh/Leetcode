@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rosshhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rosshhhh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rosshhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rosshhhh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rosshhhh/Leetcode/tree/master/0035-search-insert-position) |
 ## Binary Search
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rosshhhh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rosshhhh/Leetcode/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rosshhhh/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
